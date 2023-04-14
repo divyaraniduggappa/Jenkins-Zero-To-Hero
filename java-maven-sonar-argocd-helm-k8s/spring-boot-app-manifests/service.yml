@@ -10,4 +10,4 @@ kind: Service
       targetPort: 8080
       protocol: TCP
     selector:
-      app: cicd-app
+      app: spring-boot-app
