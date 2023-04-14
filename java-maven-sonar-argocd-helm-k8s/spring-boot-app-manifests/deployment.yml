@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: dockerdivya9/new-cicd:18
+        image: dockerdivya9/new-cicd:19
         ports:
         - containerPort: 8080
